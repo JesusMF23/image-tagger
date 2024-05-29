@@ -1,4 +1,4 @@
 .vscode
 .venv
 credentials.json
-src/uploads/
+src/uploads/*
