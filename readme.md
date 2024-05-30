@@ -5,7 +5,7 @@ We will use ImageKit for storage, MySQL as database and Flask to run the app.
 
 The enpoints available are:
 ````
-POST {localhost_url}/images
+POST {localhost_url}/upload
 
 body = {'image': <image_base_64>}
 
